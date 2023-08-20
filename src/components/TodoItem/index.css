@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.button {
+  background-color: white;
+  color: #ff0b37;
+  border-color: #ff0b37;
+  border-style: solid;
+  border-radius: 10px;
+  text-align: center;
+
+  width: 70px;
+  height: 25px;
+}
+.frame1 {
+  display: flex;
+  justify-content: space-between;
+}
